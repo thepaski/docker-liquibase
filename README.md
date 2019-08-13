@@ -13,7 +13,7 @@ The following drivers have been included:
 
 - H2 JDBC 1.4.195
 - Oracle JDBC 8 12.2.0.1
-
+- MYSQL JDBC Connector 8.0.16
 
 ## Supported tags and respective Dockerfile links
 - `3.6.1`, `latest` [(Dockerfile)](https://github.com/ferrarimarco/docker-liquibase/blob/3.6.1/Dockerfile)
